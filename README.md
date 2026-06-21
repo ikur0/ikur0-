@@ -20,5 +20,5 @@ Final-year Computer Science student at Qassim University. Focused on **machine l
 
 #### Reach me
 
-- LinkedIn: [khalid-almutairi](https://www.linkedin.com/in/khalid-almutairi)
+- LinkedIn: [[khalid-almutairi](https://www.linkedin.com/in/khalid-almutairi)](https://www.linkedin.com/in/khalidmutlaqalmutairi/)
 - Looking for ML / AI / Data co-op opportunities — Summer 2026 onward, KSA or remote.
